@@ -15,8 +15,8 @@
          enabled="true"
          homeMashup=""
          identifier=""
-         lastModifiedDate="2020-11-26T09:39:26.658Z"
-         name="SimulatorGitThing"
+         lastModifiedDate="2020-11-26T09:32:38.874Z"
+         name="portaldemo12345"
          projectName="Simulator"
          published="false"
          tags=""
@@ -117,7 +117,7 @@
                             </CommitName>
                             <FileRepository>
                             <![CDATA[
-                            DeploymentRepository
+                            GitRepository
                             ]]>
                             </FileRepository>
                             <GitRepoURL>
@@ -126,7 +126,11 @@
                             ]]>
                             </GitRepoURL>
                             <Password></Password>
-                            <RepoPathName></RepoPathName>
+                            <RepoPathName>
+                            <![CDATA[
+                            /DeploymentRepository
+                            ]]>
+                            </RepoPathName>
                             <User>
                             <![CDATA[
                             NScharffetter
